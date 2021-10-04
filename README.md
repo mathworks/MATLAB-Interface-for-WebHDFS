@@ -1,5 +1,7 @@
 # MATLAB&reg; interface for WebHDFS
 
+[![View MATLAB Interface for WebHDFS on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://uk.mathworks.com/matlabcentral/fileexchange/100234-matlab-interface-for-webhdfs)
+
 ## Table of Contents
 
 - [Introduction](#Introduction)
