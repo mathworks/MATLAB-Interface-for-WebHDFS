@@ -378,7 +378,7 @@ file.read(@(x) readtable(x,'ReadRowNames', true))
 
 #### Changing file permissions
 
-It is possible to set the read/write/execute file permissions programmatically. You need to pass the file permissions as a 3-number octal as show here [Chmod Calculator (chmod-calculator.com)](https://chmod-calculator.com/)
+It is possible to set the read/write/execute file permissions programmatically. You need to pass the file permissions as a 3-number octal. For example:
 
 ```matlab:Code
 client.hdfs_set_permission( 'myData/petdata.csv', 777);
